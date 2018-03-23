@@ -2,12 +2,9 @@
 class Cat
   attr_accessor :name
 
-  def meow
-    puts meow
-  end
+  attr_writer :meow
 
 end
 
 Maru = Cat.new
 Maru.meow
- 
