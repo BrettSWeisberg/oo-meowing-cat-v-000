@@ -5,7 +5,7 @@ class Cat
   def meow
     puts meow
   end
-  
+
 end
 
 Maru = Cat.new
