@@ -9,5 +9,5 @@ end
 
 end
 
-Maru = Cat.new
-cat.meow
+maru = Cat.new
+maru.meow
