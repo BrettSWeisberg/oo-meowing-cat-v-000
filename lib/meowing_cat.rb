@@ -10,3 +10,4 @@ end
 end
 
 Maru = Cat.new
+cat.meow
